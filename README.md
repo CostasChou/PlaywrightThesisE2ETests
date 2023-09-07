@@ -30,4 +30,4 @@ npx playwright test TC01_LogInCorrectUsernameCorrectPasswordOK.spec.js --headed
 - Playwright runs tests on headless mode by default. If you want to run tests on headed more you can add this flag to your CLI execution command. E.g. --headed
   
 ▶︎ Other execution options: :bulb:
-You can click on the <span style="color:green;">▶︎</span> button in your Test Script file
+You can click on the play "▶︎" button in your Test Script file.
