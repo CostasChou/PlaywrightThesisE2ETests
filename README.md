@@ -31,3 +31,6 @@ npx playwright test TC01_LogInCorrectUsernameCorrectPasswordOK.spec.js --headed
   
 ▶︎ Other execution options: :bulb:
 You can click on the play "▶︎" button in your Test Script file.
+
+##📋 Test execution report should normally open automatically right after the execution of a script or a test suite.  
+
